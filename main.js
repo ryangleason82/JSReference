@@ -261,7 +261,7 @@ function onSubmit(e) {
 		);
 		userList.appendChild(li);
 
-		// Clear Fields
+		// Clear Field
 		nameInput.value = "";
 		emailInput.value = "";
 	}
